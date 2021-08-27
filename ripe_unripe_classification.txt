@@ -1,0 +1,3 @@
+Hey everyone,
+This is simple code for detection of ripe and unripe fruit for contour images.
+in this case we have taken apples for classification for specific season
